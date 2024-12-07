@@ -9,3 +9,4 @@ coursera test repo
  2. will figure this out
  3. please work
  4. more testing
+ 5. getting git
