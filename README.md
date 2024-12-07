@@ -5,6 +5,6 @@ coursera test repo
 * i like it
 * Yeah
 * Yeah!
- 1.trying to figure this out
- 2.will figure this out
- 3.please work
+ 1. trying to figure this out
+ 2. will figure this out
+ 3. please work
